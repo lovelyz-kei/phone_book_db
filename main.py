@@ -5,8 +5,7 @@ if __name__ == "__main__":
 	# DB연결 정보 수정
 	dbID = "oracle"
 	dbPwd = "tiger"
-	#dbIP = "localhost"
-	dbIP = "172.30.1.49"
+	dbIP = "localhost"
 	dbPort = 1521
 	dbName = "orcl"
 
